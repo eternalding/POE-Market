@@ -2,7 +2,10 @@
 """
 Created on Tue Oct  2 11:17:02 2018
 
-@author: 羅宇呈
+@author: Y.C LO
+
+**I do not own any copyright about POE. All copyright belongs to GGG & Garena.
+**Please use POE_Market legally.
 """
 
 import pythoncom, pyHook
