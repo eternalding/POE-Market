@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=dvusfx0OPwA&t=4s
 
 TODO:
 1.  支援其他查價方式(如descending、by health...)
-2.  將可查詢之物品數量提高到200以上(每次Post 只能獲得200筆)
+2.  將可查詢之物品數量提高到200以上(每次Post Request只能獲得200筆)
 3.  支援Non-Legendary Items的查詢
 
 
