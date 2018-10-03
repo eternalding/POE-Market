@@ -4,7 +4,7 @@
 #請勿將本軟體用作非法用途，版權皆非本人所有，請注意使用
 #使用AutoHotKey(AHK)自動執行程式並呈現結果，使用前請自行注意可能後果(如:被ban等等)
 #程式會記錄鍵盤key_in，但並沒有後臺紀錄，原始碼一併附上，可自行查看
-
+#可利用pyinstaller 將.py檔轉成.exe執行
 
 POE_Market 使用python 實做multi thread Web Crawling，由POE交易市集自動獲取物品素質。
 
