@@ -16,6 +16,8 @@ POE_Market 使用python 實做multi thread Web Crawling，由POE交易市集自�
 -----------------------------------------------------------------------------------
 
 以下為簡單Demo影片:
+https://gifs.com/gif/poe-demo-voPYVn
+
 https://www.youtube.com/watch?v=dvusfx0OPwA&t=4s
 
 使用步驟:
